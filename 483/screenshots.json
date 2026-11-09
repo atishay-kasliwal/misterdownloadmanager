@@ -1,0 +1,114 @@
+[
+  {
+    "file": "before-normal-de-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "block"
+  },
+  {
+    "file": "before-fullscreen-de-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "block"
+  },
+  {
+    "file": "before-normal-de-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "block"
+  },
+  {
+    "file": "before-fullscreen-de-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "block"
+  },
+  {
+    "file": "before-normal-ar-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "block"
+  },
+  {
+    "file": "before-fullscreen-ar-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "block"
+  },
+  {
+    "file": "before-normal-ar-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "block"
+  },
+  {
+    "file": "before-fullscreen-ar-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "block"
+  },
+  {
+    "file": "after-normal-de-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "none"
+  },
+  {
+    "file": "after-fullscreen-de-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "none"
+  },
+  {
+    "file": "after-normal-de-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "none"
+  },
+  {
+    "file": "after-fullscreen-de-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "none"
+  },
+  {
+    "file": "after-normal-ar-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "none"
+  },
+  {
+    "file": "after-fullscreen-ar-light.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "none"
+  },
+  {
+    "file": "after-normal-ar-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": false,
+    "display": "none"
+  },
+  {
+    "file": "after-fullscreen-ar-dark.png",
+    "active": "player",
+    "focusVisible": false,
+    "fullscreen": true,
+    "display": "none"
+  }
+]

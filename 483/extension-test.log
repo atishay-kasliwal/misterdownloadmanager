@@ -1,0 +1,70 @@
+ok - Firefox: taken with its container's cookies, size and type
+ok - Zen: its own name goes with the brands
+ok - Firefox: declined, resumed
+ok - a type not listed stays with the browser, and MDM's log hears why
+ok - Chrome: taken at its name, incognito cookies, both addresses
+ok - Chrome: a page that went to the file by script isn't the file's address
+ok - Chrome: declined, the browser's own
+ok - Firefox: a finished small file is removed
+ok - the app's file types decide, asked once
+ok - no host: nothing taken, nothing paused, the badge says so
+ok - installed without the app: the help page, the menus
+ok - forms: posted again with their body, or left to the browser
+ok - Alt, excluded sites, blob: and withdrawn site access stay with the browser
+ok - the popup: state, pause, never this site
+ok - an older app: update-app
+ok - a bug-fix version behind: no update-app
+ok - opened types: the session rule follows the app's list
+ok - context menus: explicit links, a page's links, failures explained
+ok - streams: the frame's manifest goes with the button
+ok - #155: the right-click menu on a stream's player sends its manifest; cookies of the stream
+ok - video button messages
+ok - media list: streams grouped, files, details, protected ones
+ok - media list: downloads, never a protected one
+ok - media list: cleared on another page, kept within one
+ok - media list: bounded per tab and in tabs
+ok - media list: a frame's stream goes with the frame's page
+ok - media list: kept across the script's restarts; the popup in a tab
+ok - #171: manifests without .m3u8/.mpd or their type: noted, read only when asked, listed
+ok - #377: a .mpd or .m3u8 address answering JSON is no stream: read first, the real manifest goes
+ok - #171: nothing read where no player plays from a blob:
+ok - #171: the button and the menu read the frame's possible manifests when no stream is known
+ok - video button logo
+ok - #311: the button sends the video's own page, not the page playing it
+ok - in-place navigation and YouTube's player: the video playing now, or nothing
+ok - video.js: Shorts and live pages name their video
+ok - nothing of IDM's in the extension
+ok - translations complete
+ok - Chrome, switched on: the extension's SOCKS5 proxy goes with the download
+ok - Chrome: a fixed server for each scheme, the fallback, Chromium's default ports
+ok - Chrome: the bypass list (patterns, ranges, ports, schemes, <local>, loopback and <-loopback>)
+ok - Chrome: a proxy that asks for a login is flagged
+ok - Chrome: a PAC script, inline or by its address
+ok - Chrome: direct, system and auto-detect send nothing; a policy's proxy goes
+ok - Chrome: off as installed (nothing read or sent), on and off from the popup's switch, nothing in the console
+ok - Firefox: the request's own proxy goes, its login flagged
+ok - Firefox, not switched on or refused: no proxy read or sent, nothing in the console
+ok - Firefox: switched on, then off: the proxy goes only while on
+ok - Chromium without the proxy permission: no reading, no permission call, nothing in the console
+ok - no proxy: nothing extra goes
+ok - #208: the host's refusal is kept for the popup, by its rule
+ok - #208: a download taken clears the last refusal
+ok - #208: a 0.2.4 app: downloads as before, a notice it can't read is harmless
+ok - #208: an older host's refusal read from its words; capture off by the reason given
+ok - #208: a private window's refusal names nothing
+ok - #208: refusal codes, the app's and the popup's, agree
+ok - #208 Firefox: a download caught from its answer, before the browser's dialog
+ok - #447 Firefox: a raw UTF-8 file name in a header reaches the app readable, other names as they were
+ok - #208 Firefox: a download taken from its answer keeps its request's proxy (a VPN add-on's)
+ok - Firefox: loopback addresses skip its proxy settings' proxy, as Firefox itself does
+ok - #208 Firefox: a type not taken goes on to the browser, said once
+ok - #208 Firefox: pages, pictures, redirects, inline PDFs untouched; an unshowable type taken
+ok - #208 Firefox: a PDF taken when Options say so; the app's no lets the browser go on
+ok - #208 Firefox: Alt, excluded sites, small files, file uploads and pause stay the browser's
+ok - #208 Firefox: private stays private; a tab opened for the download closes
+ok - #208 Chromium: answers aren't held
+ok - manifests: proxy optional in Firefox, required in Chrome; the popup's switch in each
+ok - another MDM: the app's file types, every pairing message
+ok - Safari: no downloads API; a held link is offered to the app, else the click goes on
+ok - Safari: page.js holds a click on a listed file type, never Alt or other types
+extension: 69 checks passed

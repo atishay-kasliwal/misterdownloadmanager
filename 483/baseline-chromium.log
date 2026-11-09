@@ -1,0 +1,8 @@
+chromium 156.0.8078.4 baseline
+Error: #480: mouse focus keeps the video button visible after idle
+{
+  active: 'focus-player',
+  focusVisible: false,
+  fullscreen: undefined,
+  buttonDisplay: 'block'
+}
